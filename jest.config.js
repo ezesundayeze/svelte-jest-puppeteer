@@ -6,5 +6,5 @@ export default {
     testMatch: [
         "**/test/**/*.test.js"
     ],
-    verbose: true
+    testTimeout: 5000,
 }

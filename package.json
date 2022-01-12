@@ -5,7 +5,7 @@
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
     "package": "svelte-kit package",
-    "test": "jest --setTimeout=40000",
+    "test": "jest",
     "preview": "svelte-kit preview",
     "lint": "prettier --ignore-path .gitignore --check --plugin-search-dir=. .",
     "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. ."
